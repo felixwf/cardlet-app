@@ -13,6 +13,11 @@ export default new Router({
     {
       path: '*',
       redirect: '/'
+    },
+    {
+      path: '/card-form-page',
+      name: 'card-form-page',
+      component: require('@/components/CardFormPage').default
     }
   ]
 })

@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'everyone-can-use-english'
+    name: 'app-vue-component'
   }
 </script>
 
